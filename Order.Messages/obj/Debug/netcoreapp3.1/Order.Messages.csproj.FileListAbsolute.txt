@@ -1,0 +1,9 @@
+E:\Allianz\RabbitMqBasic-master\Order.Messages\bin\Debug\netcoreapp3.1\Order.Messages.deps.json
+E:\Allianz\RabbitMqBasic-master\Order.Messages\bin\Debug\netcoreapp3.1\Order.Messages.dll
+E:\Allianz\RabbitMqBasic-master\Order.Messages\bin\Debug\netcoreapp3.1\Order.Messages.pdb
+E:\Allianz\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp3.1\Order.Messages.csprojAssemblyReference.cache
+E:\Allianz\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp3.1\Order.Messages.AssemblyInfoInputs.cache
+E:\Allianz\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp3.1\Order.Messages.AssemblyInfo.cs
+E:\Allianz\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp3.1\Order.Messages.csproj.CoreCompileInputs.cache
+E:\Allianz\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp3.1\Order.Messages.dll
+E:\Allianz\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp3.1\Order.Messages.pdb

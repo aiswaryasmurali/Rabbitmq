@@ -1,0 +1,17 @@
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\bin\Debug\netcoreapp2.0\Order.Messages.deps.json
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\bin\Debug\netcoreapp2.0\Order.Messages.dll
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\bin\Debug\netcoreapp2.0\Order.Messages.pdb
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.csproj.CoreCompileInputs.cache
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.AssemblyInfoInputs.cache
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.AssemblyInfo.cs
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.dll
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.pdb
+E:\Allianz\RabbitMqBasic-master\Order.Messages\bin\Debug\netcoreapp2.0\Order.Messages.deps.json
+E:\Allianz\RabbitMqBasic-master\Order.Messages\bin\Debug\netcoreapp2.0\Order.Messages.dll
+E:\Allianz\RabbitMqBasic-master\Order.Messages\bin\Debug\netcoreapp2.0\Order.Messages.pdb
+E:\Allianz\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.csprojAssemblyReference.cache
+E:\Allianz\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.AssemblyInfoInputs.cache
+E:\Allianz\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.AssemblyInfo.cs
+E:\Allianz\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.csproj.CoreCompileInputs.cache
+E:\Allianz\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.dll
+E:\Allianz\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.pdb
